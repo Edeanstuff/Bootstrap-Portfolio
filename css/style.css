@@ -1,10 +1,10 @@
 .top {
     position:relative;
     background-color: #4aaaa5;
-    padding:27px;
-    left:12.8vw;
+    padding:27.4px;
+    left:13vw;
     font-family:'Georgia', Times, Times New Roman, serif;
-    line-height: 11vh;
+    line-height: 11.5vh;
     font-size:2rem;
     color:white;
 }
@@ -37,7 +37,10 @@ body {
     background-color: #ffffff;
     padding: 0px 0px 75px 0px;
 }
-.nom{
+
+a{
+    position:relative;
+    left:0vw;
     color: #777777;
     font-size: 1.2rem;
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -60,6 +63,8 @@ body {
 .photo {
     position: relative;
     float: left;
+    height:200px;
+    width:200px;
     top: 5vh;
     left: 3vw;
     margin-bottom: 1.5vh;
@@ -93,7 +98,6 @@ body {
 }
 .hbp {
     position: relative;
-    top: 4.3vh;
     padding: 0vh 1vw 0vh 1vw;
     border-style: solid;
     border-color: #ffffff;
@@ -112,6 +116,7 @@ body {
     border-color: #ffffff;
     border-bottom-color: #d3d3d3;
     border-style:solid;
+    margin-bottom: 3vh;
 }
 .fix{
     position: relative;
@@ -157,8 +162,8 @@ input[type=submit] {
 }
 .photocover {
     position:relative;
-    left: -25vw;
-    top: 22vh;
+    left: -10.7vw;
+    top: 7.8vh;
     width:13vw;
     text-align:center;
     padding: 10px 0px 10px 0px;
@@ -168,7 +173,7 @@ input[type=submit] {
 }
 .photocover2 {
     position:relative;
-    left: -23.7vw;
+    left: -10.7vw;
     top: 22vh;
     width:13vw;
     text-align:center;
@@ -179,7 +184,7 @@ input[type=submit] {
 }
 .photocover3 {
     position:relative;
-    left: -25vw;
+    left: -53.6vw;
     top: 22vh;
     width:13vw;
     text-align:center;
@@ -190,8 +195,8 @@ input[type=submit] {
 }
 .photocover4 {
     position:relative;
-    left: -52.3vw;
-    top: 22vh;
+    left: -39.3vw;
+    top: 17.2vh;
     width:13vw;
     text-align:center;
     padding: 10px 0px 10px 0px;
@@ -201,8 +206,8 @@ input[type=submit] {
 }
 .photocover5 {
     position:relative;
-    left: -10.65vw;
-    top: 16vh;
+    left: -25vw;
+    top: 12.5vh;
     width:13vw;
     text-align:center;
     padding: 10px 0px 10px 0px;
